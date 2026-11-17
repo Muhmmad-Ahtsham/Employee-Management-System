@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Ahmed Raza",
+        "email": "ahmed.raza@company.com",
+        "department": "IT",
+        "designation": "Software Engineer",
+        "salary": 120000,
+        "joined": "2022-03-14"
+    },
+    {
+        "id": 2,
+        "name": "Sana Memon",
+        "email": "sana.memon@company.com",
+        "department": "Human Resources",
+        "designation": "HR Manager",
+        "salary": 150000,
+        "joined": "2020-07-01"
+    },
+    {
+        "id": 3,
+        "name": "Bilal Chandio",
+        "email": "bilal.chandio@company.com",
+        "department": "Finance",
+        "designation": "Accountant",
+        "salary": 95000,
+        "joined": "2021-11-22"
+    },
+    {
+        "id": 4,
+        "name": "Farah Soomro",
+        "email": "farah.soomro@company.com",
+        "department": "IT",
+        "designation": "Database Administrator",
+        "salary": 135000,
+        "joined": "2019-05-09"
+    },
+    {
+        "id": 5,
+        "name": "Kamran Jatoi",
+        "email": "kamran.jatoi@company.com",
+        "department": "Sales",
+        "designation": "Sales Executive",
+        "salary": 80000,
+        "joined": "2023-01-16"
+    },
+    {
+        "id": 6,
+        "name": "Nida Qureshi",
+        "email": "nida.qureshi@company.com",
+        "department": "Marketing",
+        "designation": "Marketing Lead",
+        "salary": 110000,
+        "joined": "2021-09-06"
+    },
+    {
+        "name": "Muhammad Ahtsham",
+        "email": "ahtsham54t@gmail.com",
+        "department": "IT",
+        "designation": "badin",
+        "salary": 250000,
+        "joined": "2026-11-12",
+        "id": 7
+    }
+]
